@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <PackageIconUrl>http://resource.cddyjy.com/assets/images/beijin.png</PackageIconUrl>
+    <Description>nuget 服务器测试</Description>
+    <Authors>Zhlh</Authors>
+    <Company>Zhlh</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
